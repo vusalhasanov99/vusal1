@@ -1,0 +1,14 @@
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.csproj.AssemblyReference.cache
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.AssemblyInfoInputs.cache
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.AssemblyInfo.cs
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.csproj.CoreCompileInputs.cache
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.exe
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.deps.json
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.runtimeconfig.json
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.runtimeconfig.dev.json
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.dll
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\bin\Debug\netcoreapp3.1\vusal2.pdb
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.dll
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.pdb
+C:\Users\vusal hasanov\source\repos\vusal2\vusal2\obj\Debug\netcoreapp3.1\vusal2.genruntimeconfig.cache
